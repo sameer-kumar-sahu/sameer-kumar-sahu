@@ -26,7 +26,7 @@ Aspiring **Data Analyst** passionate about turning raw data into actionable insi
 
 📄 **My Resume**
 
-Looking to hire a passionate and certified **Data Analyst** with hands-on experience in **SQL**, **Power BI**, and **data storytelling**?  
+Looking to hire a passionate and certified **Data Analyst** with hands-on experience in **SQL**, **Power BI**, **Python** and **data storytelling**?  
 Check out my resume for a quick snapshot of my skills, projects, and certifications:
 
 👉 [**Download Resume (PDF)**](https://github.com/sameer-kumar-sahu/sameer-kumar-sahu/blob/main/Sameer%20Kumar%20Sahu-Resume.pdf)
