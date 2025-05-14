@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Sameer Kumar Sahu 👋</h1>
-<p align="center">
 <p align="center">Data Analyst | BI Analyst
 
 🎯 **About Me**  
