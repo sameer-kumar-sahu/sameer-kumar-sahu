@@ -6,9 +6,9 @@ Aspiring **Data Analyst** passionate about turning raw data into actionable insi
 
 
 🔧 **Technical Skills**
-- 💻 **Languages**: SQL, Python 
+- 💻 **Languages**:  **SQL** (JOINS, WINDOWS FUNCTIONS, CTEs etc.), **Python** (NumPy, Pandas, Matplotlib, Seaborn) 
 - 📊 **Data Tools**: MySQL, PowerBI, Advance MS Excel, Power Query Editor
-- 📈 **Data Analytics**: Data Cleaning, EDA, ETL, DAX, Dashboarding, Statistical Analysis, Regression Analysis, Business Intelligence
+- 📈 **Concepts**: Data Cleaning, EDA, ETL, DAX, Dashboarding, Statistical Analysis, Regression Analysis, Business Intelligence
 
 🚀 **Projects**
 - **Olist Brazilian E-commerce Analysis**: End-to-end BI project using SQL & Power BI [Link](https://github.com/sameer-kumar-sahu/PowerBI-Dashboard-Olist-Ecommerce-Sales/tree/main)
