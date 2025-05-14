@@ -24,6 +24,13 @@ Aspiring **Data Analyst** passionate about turning raw data into actionable insi
 - 📧ssameerkumar037@gmail.com
 - 💼[LinkedIn](https://linkedin.com/in/sameerkumarsahu)
 
+  ## 📄 My Resume
+
+Looking to hire a passionate and certified **Data Analyst** with hands-on experience in **SQL**, **Power BI**, and **data storytelling**?  
+Check out my resume for a quick snapshot of my skills, projects, and certifications:
+
+👉 [**Download Resume (PDF)**]()
+
 ---
 
 🧠 *Always learning. Always growing.*  
