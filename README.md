@@ -7,13 +7,14 @@ Aspiring **Data Analyst** passionate about turning raw data into actionable insi
 
 🔧 **Technical Skills**
 - 💻 **Languages**:  **SQL** (JOINS, WINDOWS FUNCTIONS, CTEs etc.), **Python** (NumPy, Pandas, Matplotlib, Seaborn) 
-- 📊 **Data Tools**: MySQL, PowerBI, Advance MS Excel, Power Query Editor
+- 📊 **Data Tools**: MySQL, PowerBI, Advanced MS Excel, Power Query Editor
 - 📈 **Concepts**: Data Cleaning, EDA, ETL, DAX, Dashboarding, Statistical Analysis, Regression Analysis, Business Intelligence
 
 🚀 **Projects**
 - **Olist Brazilian E-commerce Analysis**: End-to-end BI project using SQL & Power BI [Link](https://github.com/sameer-kumar-sahu/PowerBI-Dashboard-Olist-Ecommerce-Sales/tree/main)
 - **HR Analytics**: Multi-level SQL queries for employee insights and recruitment trends [Link](https://github.com/sameer-kumar-sahu/Employee-HR-Analytics-Project)
-
+- **Bank Customer Churn Analysis**: Conducted data-driven analysis on banking customers to uncover churn patterns and visualized key insights to support strategic decision-making [Link](https://github.com/sameer-kumar-sahu/Customer-Churn-Analysis)
+  
 🎓 **Certifications**
 - Google Data Analytics Professional Certificate [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/XRF5WMG4M53E)
 - IBM Business Intelligence Analyst Professional Certificate [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/8E3IMOEA56P1)
