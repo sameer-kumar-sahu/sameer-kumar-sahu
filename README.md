@@ -22,7 +22,7 @@ Aspiring **Data Analyst** passionate about turning raw data into actionable insi
 📫 **Let's Connect!**
 
 - 📧ssameerkumar037@gmail.com
-- 💼[LinkedIn](https://linkedin.com/in/sameerkumarsahu)
+- 💼[LinkedIn](https://www.linkedin.com/in/sameer-kumar-sahu/)
 
 📄 **My Resume**
 
